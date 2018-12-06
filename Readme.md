@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Kira](https://up.htmlacademy.ru/javascript/16/user/13499).
-* Наставник: `Неизвестно`.
+* Наставник: `Klets`.
 
 ---
 
