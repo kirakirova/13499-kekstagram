@@ -1,9 +1,13 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Kira](https://up.htmlacademy.ru/javascript/16/user/13499).
-* Наставник: `Larisa Klec`.
 
----
+
+
+* Наставник: `Klets`.
+
+
+
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
 _`.editorconfig`, `.eslintrc`, `.gitattributes`, `.gitignore`, `.travis.yml`, `package-lock.json`, `package.json`._
